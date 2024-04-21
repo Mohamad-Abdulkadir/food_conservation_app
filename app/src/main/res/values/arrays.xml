@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Dubai</item>
+        <item>Abu Dhabi</item>
+        <item>Sharjah</item>
+        <item>Ajman</item>
+        <item>Ras Al Khaymah</item>
+        <item>Al Fujayrah</item>
+        <item>Alain</item>
+
+    </string-array>
+
+    <string-array name="alaindistricts">
+        <item>Asharij</item>
+        <item>Abu Hiraybah</item>
+        <item>Abu Samrah</item>
+        <item>Ain Al Faydah</item>
+        <item>Al Ajban</item>
+        <item>Al Arad</item>
+        <item>Al Iqabiyyah</item>
+        <item>Al Aamerah</item>
+        <item>Al Aflaj</item>
+        <item>Al Ain International Airport</item>
+        <item>Al Bateen</item>
+        <item>Al Dahma</item>
+        <item>Al Dhahir</item>
+        <item>Al Dhahrah</item>
+        <item>Al Faqa</item>
+        <item>Al Fouah</item>
+        <item>Al Hiyar</item>
+        <item>Al Jahili</item>
+        <item>Al Jimi</item>
+        <item>Al Khaznah</item>
+        <item>Al Khibeesi</item>
+        <item>Al Khirayr</item>
+        <item>Al Maqam</item>
+        <item>Al Markhaniyyah</item>
+        <item>Al Masoudi</item>
+        <item>Al Mutarid</item>
+        <item>Al Mutawah</item>
+        <item>Al Muwaiji</item>
+        <item>Al Nabbagh</item>
+        <item>Al Qattarah</item>
+        <item>Al Qisees</item>
+        <item>Al Qou</item>
+        <item>Al Rawdah</item>
+        <item>Al Rawdah Al Sharqiyah</item>
+        <item>Al Ruwaydat</item>
+        <item>Al Sad</item>
+        <item>Al Salamat</item>
+        <item>Al Sarouj</item>
+        <item>Al Shiwayb</item>
+        <item>Al Shuwaymah</item>
+        <item>Al Tiwayya</item>
+        <item>Al Wiqan</item>
+        <item>Bad Bint Saoud</item>
+        <item>Bu Kirayyah</item>
+        <item>Central District</item>
+        <item>Falaj Hazza</item>
+        <item>Ghireebah</item>
+        <item>Ghnaymah</item>
+        <item>Hili</item>
+        <item>Industrial Area</item>
+        <item>Industrial City</item>
+        <item>Jabal Hafeet</item>
+        <item>Khatm Al Shiklah</item>
+        <item>Malaqit</item>
+        <item>Masakin</item>
+        <item>Mazyad</item>
+        <item>Mbazzarah Al Khadra</item>
+        <item>Nahil</item>
+        <item>Nimah</item>
+        <item>Niqa Al Dheeb</item>
+        <item>Ramlat Sweihan</item>
+        <item>Rimah</item>
+        <item>Sa</item>
+        <item>Shibat Al Wutah</item>
+        <item>Shiab Al Ashkhar</item>
+        <item>Sweihan</item>
+        <item>Um Al Zumoul</item>
+        <item>Um Ghafah</item>
+        <item>Zakhir</item>
+
+    </string-array>
+
+    <string-array name="abudhabidistricts">
+        <item>Abu Al Abyad Island</item>
+        <item>Abu Dhabi Industrial City</item>
+        <item>Abu Mreikhah</item>
+        <item>Al Adlah</item>
+        <item>Al Asheesh</item>
+        <item>Al Aliah Island</item>
+        <item>Al Aryam Island</item>
+        <item>Al Bahyah</item>
+        <item>Al Bihouth</item>
+        <item>Al Fayah</item>
+        <item>Al Fteysi Island</item>
+        <item>Al Haffar</item>
+        <item>Al Halah Island</item>
+        <item>Al Hanyourah</item>
+        <item>Al Heel Island</item>
+        <item>Al Hidayriyyat</item>
+        <item>Al Khatm</item>
+        <item>Al Khidayrah</item>
+        <item>Al Layyan</item>
+        <item>Al Mamourah</item>
+        <item>Al Mirad</item>
+        <item>Al Mihsinah</item>
+        <item>Al Nahdah</item>
+        <item>Al Nouf</item>
+        <item>Al Rahbah</item>
+        <item>Al Sader</item>
+        <item>Al Samhah</item>
+        <item>Al Selmiyyah</item>
+        <item>Al Shahamah</item>
+        <item>Al Shelaylah Island</item>
+        <item>Al Shinayin</item>
+        <item>Al Smeeh</item>
+        <item>Al Sout</item>
+        <item>Al Taweelah</item>
+        <item>Al Wathbah</item>
+        <item>Al Zubarah</item>
+        <item>Bilghaylam Island</item>
+        <item>Bu Niyaydah</item>
+        <item>Dhaharat Al Teeb</item>
+        <item>Dihan</item>
+        <item>Ghadeer Al Tayr</item>
+        <item>Ghanadhah</item>
+        <item>Ghantout</item>
+        <item>Jarn Yafour</item>
+        <item>Khalifa Industrial</item>
+        <item>Madinat Al Riyad</item>
+        <item>Mshayrif</item>
+        <item>Musaffah</item>
+        <item>Muwaylih</item>
+        <item>Nourai Island</item>
+        <item>Qirqishan</item>
+        <item>Rawdat Al Reef</item>
+        <item>Ujaij</item>
+        <item>Zayed Military City</item>
+    </string-array>
+</resources>
